@@ -1,0 +1,27 @@
+{
+  "name": "Karim Dashboard Manager",
+  "short_name": "KDM",
+  "description": "Manajemen Santri Terpadu",
+  "theme_color": "#2596be",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://ik.imagekit.io/e6vjjeaon/favicon-96x96.png?tr=w-192,h-192,fo-auto",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ik.imagekit.io/e6vjjeaon/favicon-96x96.png?tr=w-512,h-512,fo-auto",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
